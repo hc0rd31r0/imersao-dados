@@ -1,2 +1,2 @@
 # imersao-dados
-Publicação do projeto desenvolvido na aula 1 da Imersão Dados
+Publicação do projeto desenvolvido nas aulas da Imersão Dados 3 da Alura.
